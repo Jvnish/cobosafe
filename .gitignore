@@ -8,3 +8,4 @@ reports/
 out/
 cache/
 broadcast/
+lib/*
